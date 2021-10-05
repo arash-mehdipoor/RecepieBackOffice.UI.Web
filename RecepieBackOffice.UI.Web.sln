@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.EndPoint", "02.EndPoint", "{0C7BF872-E749-400D-AD6E-B02EFF7A5828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecepieBackOffice.UI.Web", "02.EndPoint\RecepieBackOffice.UI.Web\RecepieBackOffice.UI.Web.csproj", "{693690E9-4D94-435D-BBEC-30478E1069B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693690E9-4D94-435D-BBEC-30478E1069B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693690E9-4D94-435D-BBEC-30478E1069B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693690E9-4D94-435D-BBEC-30478E1069B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693690E9-4D94-435D-BBEC-30478E1069B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{693690E9-4D94-435D-BBEC-30478E1069B5} = {0C7BF872-E749-400D-AD6E-B02EFF7A5828}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBAE9645-5006-45A0-A757-ADC5ACC199FB}
+	EndGlobalSection
+EndGlobal
